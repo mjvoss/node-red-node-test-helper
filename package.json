@@ -20,7 +20,7 @@
     "should-sinon": "0.0.6",
     "sinon": "7.5.0",
     "stoppable": "1.1.0",
-    "supertest": "4.0.2"
+    "supertest": "^5.0.*"
   },
   "peerDependencies": {
     "node-red": "~0.20.0"
